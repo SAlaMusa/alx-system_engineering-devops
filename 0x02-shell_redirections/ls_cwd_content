@@ -1,0 +1,16 @@
+total 56
+drwxrwxr-x 2 sunday sunday 4096 Kam 14 19:29 .
+drwxrwxr-x 6 sunday sunday 4096 Kam 12 14:18 ..
+-rwxrw-r-- 1 sunday sunday   32 Kam 12 14:20 0-hello_world
+-rwxrw-r-- 1 sunday sunday   28 Kam 12 22:12 1-confused_smiley
+-rwxrw-r-- 1 sunday sunday   16 Kam 14 19:24 21-reverse
+-rwxrw-r-- 1 sunday sunday   28 Kam 13 11:38 2-hellofile
+-rwxrw-r-- 1 sunday sunday   39 Kam 13 11:40 3-twofiles
+-rwxrw-r-- 1 sunday sunday   35 Kam 13 11:42 4-lastlines
+-rwxrw-r-- 1 sunday sunday   35 Kam 13 11:44 5-firstlines
+-rwxrw-r-- 1 sunday sunday   36 Kam 13 11:54 6-third_line
+-rwxrw-r-- 1 sunday sunday   70 Kam 14 19:21 7-file
+-rwxrw-r-- 1 sunday sunday   36 Kam 14 19:28 8-cwd_state
+-rw-rw-r-- 1 sunday sunday   12 Kam 14 19:20 *\Best School'*$?*****:)
+-rw-rw-r-- 1 sunday sunday    0 Kam 14 19:29 ls_cwd_content
+-rw-rw-r-- 1 sunday sunday   11 Kam 12 14:19 README.md
